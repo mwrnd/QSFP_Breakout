@@ -12,7 +12,7 @@ Additional I2C circuitry is due to this being a stepping stone project for an [O
 
 ![QSFP Breakout PCB Layout](img/QSFP_Breakout_PCB_Layout.png)
 
-All signals are length-matched to within 1mm of a 25mm total length, both inter-pair and intra-pair.
+All differential signals are length-matched to within 1mm of a 25mm total length, both inter-pair and intra-pair.
 
 
 # Schematic
