@@ -3,7 +3,7 @@
 
 # QSFP Breakout
 
-[QSFP](https://en.wikipedia.org/wiki/QSFP) to [U.FL/UMCC Connector](https://en.wikipedia.org/wiki/Hirose_U.FL) breakout.
+[QSFP](https://en.wikipedia.org/wiki/Small_Form-factor_Pluggable#QSFP) to [U.FL/UMCC Connector](https://en.wikipedia.org/wiki/Hirose_U.FL) breakout.
 
 Additional I2C circuitry is due to this being a stepping stone project for an [OpenCAPI](https://files.openpower.foundation/s/xSQPe6ypoakKQdq/download/25Gbps-spec-20171108.pdf) to **dual** QSFP design. OpenCAPI has only a single I2C interface.
 

@@ -807,7 +807,7 @@
     (library (logical "Interface_Expansion")
       (uri "/usr/share/kicad/symbols//Interface_Expansion.kicad_sym"))
     (library (logical "QSFP")
-      (uri "/home/user/Videos/KiCad_Libraries/QSFP.kicad_sym"))
+      (uri "/home/user/KiCad_Libraries/QSFP.kicad_sym"))
     (library (logical "Regulator_Switching")
       (uri "/usr/share/kicad/symbols//Regulator_Switching.kicad_sym")))
   (nets
