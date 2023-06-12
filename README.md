@@ -1,4 +1,4 @@
-**Work-In-Progress**: [Gerbers ready](https://github.com/mwrnd/QSFP_Breakout/releases/tag/v0.1-alpha) but not yet ordered.
+**Work-In-Progress**: [Gerbers ready](https://github.com/mwrnd/QSFP_Breakout/releases/tag/v0.1.1-alpha) but not yet ordered.
 
 
 # QSFP Breakout
