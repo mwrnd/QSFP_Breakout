@@ -1,4 +1,4 @@
-**Work-In-Progress**: Design being tested.
+**Work-In-Progress**: Design being tested. A second revision will be needed as the QSFP Cage Mounting pads are incorrect.
 
 
 # QSFP Breakout
