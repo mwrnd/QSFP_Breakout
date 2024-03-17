@@ -1,5 +1,7 @@
 **Work-In-Progress**: Design being tested. A second revision will be needed as the QSFP Cage Mounting pads are incorrect.
 
+![QSFP Footprint Footprint Error](img/QSFP_Footprint_Footprint_Error.jpg)
+
 
 # QSFP Breakout
 
